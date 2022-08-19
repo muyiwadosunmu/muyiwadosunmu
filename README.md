@@ -20,11 +20,11 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m scaling up my Node.js Skills lately
+- :telescope: I’m hoping to learn React.js very soon
 
 - :seedling: Exploring about Web3 and Blockchain.
 
-- :zap: In my free time, I mostly read documentations mostly Django,Django REST Framework, Node.js or Express.js
+- :zap: In my free time, I mostly read documentations mostly Django,Django REST Framework, FASTAPI.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muyiwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwamuyiwa-dosunmu-253923127/)
 ---
