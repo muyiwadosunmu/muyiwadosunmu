@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m hoping to learn React.js very soon
+- :telescope: I’m hoping to learn Solidity and Web3
 
 - :seedling: Exploring about Web3 and Blockchain.
 
