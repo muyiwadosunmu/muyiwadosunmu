@@ -20,11 +20,11 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m hoping to learn Solidity and Web3
+- :telescope: I’m hoping to learn Rust Programming Language
 
 - :seedling: Exploring about Web3 and Blockchain.
 
-- :zap: In my free time, I mostly read documentations mostly Django,Django REST Framework, FASTAPI.
+- :zap: In my free time, I mostly read documentations of Django,Django REST Framework, FASTAPI and Rust....
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muyiwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwamuyiwa-dosunmu-253923127/)
 ---
@@ -36,7 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="postgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="55"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original-wordmark.svg" title="Rust" alt="Rust" width="40" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 ---
