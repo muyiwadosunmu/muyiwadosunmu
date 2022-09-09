@@ -20,14 +20,17 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m hoping to learn Rust Programming Language
+- :telescope: I’m proficient with Django, Django REST and  Express.js
+
+- :telescope: I’m learning the Rust Programming Language because I want more than just web development
 
 - :seedling: Exploring about Web3 and Blockchain.
 
-- :zap: In my free time, I mostly read documentations of Django,Django REST Framework, FASTAPI and Rust....
+- :zap: In my free time, I mostly read documentations of Django,Django REST Framework, Express and Rust Documentation ....
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muyiwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwamuyiwa-dosunmu-253923127/)
 ---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
