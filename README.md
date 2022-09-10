@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m proficient with Django, Django REST and  Express.js
+- :book: I’m proficient with Django, Django REST and some Express.js
 
 - :telescope: I’m learning the Rust Programming Language because I want more than just web development
 
