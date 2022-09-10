@@ -26,7 +26,7 @@
 
 - :seedling: Exploring about Web3 and Blockchain.
 
-- :zap: In my free time, I mostly read documentations of Django,Django REST Framework, Express and Rust Documentation ....
+- :zap: In my free time, I mostly read documentations of Django,Django REST Framework, Express.js and Rust Documentation ....
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muyiwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwamuyiwa-dosunmu-253923127/)
 ---
