@@ -1,4 +1,4 @@
-# Hello Welcome I',m Muyiwa Dosunmu
+# Hello Welcome I',m Muyiwa Dosunmu. a Junior Backend Engineer
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media3.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=790b7611f60a469ff8f6e2288ed41cd65a88a14e31c8f4ba&rid=giphy.gif&ct=s)" width="100"/>
 </div>
@@ -22,11 +22,11 @@
 ### :man_technologist: About Me :
 - :book: I’m quite proficient with Django, Django REST, FASTAPI and some Express.js
 
-- :telescope: I’m learning the Rust Programming Language because I want more than just web development
+- :telescope: I love Python and Rust, I love Machine Learning and would love to build huge projects with Rust
 
 - :seedling: Exploring about Web3 and Blockchain.
 
-- :zap: In my free time, I mostly read documentations of Django,Django REST Framework, Express.js and Rust Documentation ....
+- :zap: In my free time, I mostly read documentations of Django,Django REST Framework, FASTAPI, Express.js and Rust Documentation ....
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muyiwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwamuyiwa-dosunmu-253923127/)
 ---
