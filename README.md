@@ -1,5 +1,5 @@
 # Hello Welcome I'm Oluwamamuyiwa Dosunmu.
-A Junior Backend Engineer
+An Entry-level/Jnr Backend Engineer
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media3.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=790b7611f60a469ff8f6e2288ed41cd65a88a14e31c8f4ba&rid=giphy.gif&ct=s)" width="100"/>
 </div>
@@ -21,9 +21,9 @@ A Junior Backend Engineer
 ---
 
 ### :man_technologist: About Me :
-- :book: I’m quite proficient with Django, Django REST, FASTAPI and some Express.js
+- :book: I’m quite proficient with Django, Django REST, FASTAPI and recently Express.js
 
-- :telescope: I love Python and Rust, I love Machine Learning and would love to build huge projects with Rust
+- :telescope: I love Python, JavaScript and Rust, I love Machine Learning and would love to build huge projects with Rust
 
 - :seedling: Exploring about Web3 and Blockchain.
 
