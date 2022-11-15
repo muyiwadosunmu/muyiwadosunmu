@@ -21,13 +21,13 @@ An Entry-level/Jnr Backend Engineer
 ---
 
 ### :man_technologist: About Me :
-- :book: I’m quite proficient with Django, Django REST, FASTAPI and recently Express.js
+- :book: I’m quite comfortable with some Backend frameworks like Django REST, Express.js and FastAPI
 
-- :telescope: I love Python, JavaScript and Rust, I love Machine Learning and would love to build huge projects with Rust
+- :telescope: I'm interested in System Programming, I want something more than web development
 
-- :seedling: Exploring about Web3 and Blockchain.
+- :seedling: Sometimes Iexplore about Web3 and Blockchain.
 
-- :zap: In my free time, I mostly read documentations of Django,Django REST Framework, FASTAPI, Express.js and Rust Documentation ....
+- :zap: In my free time, I mostly read documentations....
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muyiwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwamuyiwa-dosunmu-253923127/)
 ---
