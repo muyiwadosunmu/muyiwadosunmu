@@ -21,11 +21,11 @@ An Entry-level/Jnr Backend Engineer
 ---
 
 ### :man_technologist: About Me :
-- :book: I’m quite comfortable with some Backend frameworks like Django(REST), Express.js and FastAPI
+- :book: I’m quite comfortable with some Backend frameworks like Express.js and FastAPI
 
-- :telescope: I'm interested in System Programming, I want something more than web development, my reason of learning Rust
+- :telescope: I'm interested in System Programming, I want something more than web development, my reason of learning C and maybe Rust
 
-- :seedling: Sometimes Iexplore about Web3 and Blockchain.
+- :seedling: Sometimes I explore, learn and grow everyday
 
 - :zap: In my free time, I mostly read documentations....
 
