@@ -25,7 +25,7 @@ An Entry-level/Jnr Backend Engineer
 
 - :telescope: I'm interested in System Programming, I want something more than web development, my reason of learning C and maybe Rust
 
-- :seedling: Sometimes I explore, learn and grow everyday
+- :seedling: I explore, learn and grow everyday
 
 - :zap: In my free time, I mostly read documentations....
 
