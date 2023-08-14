@@ -1,5 +1,5 @@
 # Hello Welcome I'm Oluwamamuyiwa Dosunmu.
-A Jnr Backend Engineer
+A Backend Engineer
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media3.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=790b7611f60a469ff8f6e2288ed41cd65a88a14e31c8f4ba&rid=giphy.gif&ct=s)" width="100"/>
 </div>
@@ -21,9 +21,9 @@ A Jnr Backend Engineer
 ---
 
 ### :man_technologist: About Me :
-- :book: I’m quite comfortable with some Backend frameworks like Express.js and FastAPI
+- :book: I’m quite comfortable with some Backend frameworks like Express.js, Nestjs and FastAPI
 
-- :telescope: I'm interested in System Programming, I want something more than web development, my reason of learning C and maybe Rust
+- :telescope: I'm interested in System Programming, I want something more than web development, my reason of playing with C and learning Rust
 
 - :seedling: I explore, learn and grow everyday
 
