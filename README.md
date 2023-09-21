@@ -21,9 +21,9 @@ A Backend Engineer
 ---
 
 ### :man_technologist: About Me :
-- :book: I’m quite comfortable with some Backend frameworks like Express.js, Nestjs and FastAPI
+- :book: I do Express.js, Nestjs
 
-- :telescope: I'm interested in System Programming, I want something more than web development, my reason of playing with C and learning Rust
+- :telescope: Learning C# presently
 
 - :seedling: I explore, learn and grow everyday
 
