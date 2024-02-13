@@ -21,9 +21,9 @@ A Backend Engineer
 ---
 
 ### :man_technologist: About Me :
-- :book: I do Express.js, Nestjs
+- :book: I do Express.js, Nestjs, .NET
 
-- :telescope: Learning C# presently
+- :telescope: Exploring .NET presently
 
 - :seedling: I explore, learn and grow everyday
 
@@ -40,7 +40,6 @@ A Backend Engineer
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="postgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original-wordmark.svg" title="Rust" alt="Rust" width="40" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 ---
