@@ -21,7 +21,7 @@ A Backend Engineer
 ---
 
 ### :man_technologist: About Me :
-- :book: I do Express.js, Nestjs,learning .NET
+- :book: I majorly do Express.js, Nestjs
 
 - :telescope: Exploring Go and a little .NET presently
 
