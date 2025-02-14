@@ -21,8 +21,8 @@ A Backend Engineer
 ---
 
 ### :man_technologist: About Me :
-- :book: I majorly do Express.js, Nestjs
-- :telescope: Exploring Go and C++
+- :book: I majorly do Nestjs and Go
+- :telescope: Exploring C++ and learning DSA with C# and Go
 - :seedling: I explore, learn and grow everyday
 
 - :zap: In my free time, I mostly read documentations....
