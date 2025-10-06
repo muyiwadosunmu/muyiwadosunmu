@@ -26,9 +26,9 @@ A Backend Engineer
 - :seedling: I explore, learn and grow everyday
 
 - :zap: In my free time, I mostly read documentations....
+- 📹 I started dropping helpful content on YouTube!  
+[![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@muyiwadosunmu)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muyiwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwamuyiwa-dosunmu-253923127/)
----
 
 
 ### :hammer_and_wrench: Languages and Tools :
