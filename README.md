@@ -21,7 +21,7 @@ A Backend Engineer
 ---
 
 ### :man_technologist: About Me :
-- :book: I majorly do Nestjs and Go
+- :book: interface{}
 - :telescope: Exploring DSA with Go and Java
 - :seedling: I explore, learn and grow everyday
 
